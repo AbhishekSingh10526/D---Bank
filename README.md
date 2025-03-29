@@ -1,2 +1,20 @@
-# D---Bank
-It is Basically A De-Centralised Bank made up by an BlockChain WebDev 3.0 , Ubuntu WSL Vs Code Editor
+# Run Completed Code
+
+1. Make sure dfx is running
+
+```
+dfx start --clean
+```
+
+2. Deploy the project
+```
+dfx deploy
+```
+
+3. Start NPM
+```
+npm start
+```
+
+
+
